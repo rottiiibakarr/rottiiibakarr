@@ -3,11 +3,13 @@
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFsZG5nNWV4OTkyYW5uNHE5Z3ZhcGdhbXloaGx2ZGVnemV2ZnRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xRoukXmFtZWc4U/giphy.gif" />
 
 ### 👨‍💻 About Me
-I am a passionate student from **Universitas Pendidikan Indonesia** with a strong interest in web development and software engineering. I enjoy solving problems and turning ideas into reality through code.
 
-- 🌱 I’m currently focused on deepening my skills in the MERN stack.
-- 💬 Ask me about anything related to JavaScript, React, or competitive programming!
-- 📫 How to reach me: You can find my social links below.
+A passionate software developer combining my studies at **Universitas Pendidikan Indonesia** with hands-on professional experience. My goal is to build impactful technology while continuously growing my skills.
+
+- 💼 **Role:** Data Privacy Officer at **Indosat Ooredoo Hutchison**.
+- 🔥 **Enthusiast for:** Clean Code, Web Development, and creating great User Experiences.
+- 🌱 **Learning Mindset:** I am always learning. I believe that humility and the curiosity to learn are the keys to growth as a developer.
+- 🎯 **Current Focus:** Deepening my expertise in the MERN stack and exploring cloud technologies.
 
 ---
 
