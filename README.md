@@ -12,7 +12,6 @@ I am a passionate student from **Universitas Pendidikan Indonesia** with a stron
 ---
 
 ### 💻 Tech Stack
-Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 
 **Languages:**
 <p>
