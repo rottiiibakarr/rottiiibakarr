@@ -1,6 +1,6 @@
 # Hi there, I'm Naufal 👋
 
-<img align="right" height="170" width="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFsZG5nNWV4OTkyYW5uNHE5Z3ZhcGdhbXloaGx2ZGVnemV2ZnRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xRoukXmFtZWc4U/giphy.gif" />
+<img align="right" height="150" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFsZG5nNWV4OTkyYW5uNHE5Z3ZhcGdhbXloaGx2ZGVnemV2ZnRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xRoukXmFtZWc4U/giphy.gif" />
 
 ### 👨‍💻 About Me
 
