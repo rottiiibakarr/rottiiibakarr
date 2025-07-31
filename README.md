@@ -6,10 +6,10 @@
 
 A passionate software developer combining my studies at **Universitas Pendidikan Indonesia** with hands-on professional experience. My goal is to build impactful technology while continuously growing my skills.
 
-- 💼 **Role:** Data Privacy Officer at **Indosat Ooredoo Hutchison**.
-- 🔥 **Enthusiast for:** Clean Code, Web Development, and creating great User Experiences.
+- 💼 **Role:** Technical IT Support at **PT Mitra Tekno Global**.
+- 🔥 **Enthusiast for:** Clean Code, Cyber Security, and creating great User Interface and Experiences.
 - 🌱 **Learning Mindset:** I am always learning. I believe that humility and the curiosity to learn are the keys to growth as a developer.
-- 🎯 **Current Focus:** Deepening my expertise in the MERN stack and exploring cloud technologies.
+- 🎯 **Current Focus:** Deepening my expertise in cybersecurity analyst and exploring cloud technologies.
 
 ---
 
