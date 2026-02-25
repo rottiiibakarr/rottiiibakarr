@@ -6,7 +6,7 @@
 
 A passionate software developer combining my studies at **Universitas Pendidikan Indonesia** with hands-on professional experience. My goal is to build impactful technology while continuously growing my skills.
 
-- 💼 **Role:** Technical IT Support Intern.
+- 💼 **Role:** Data Analyst.
 - 🔥 **Enthusiast for:** Clean Code, Cyber Security, and creating great User Interface and Experiences.
 - 🌱 **Learning Mindset:** I am always learning. I believe that humility and the curiosity to learn are the keys to growth as a developer.
 - 🎯 **Current Focus:** Deepening my expertise in cybersecurity analyst and exploring cloud technologies.
